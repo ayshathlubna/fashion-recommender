@@ -4,6 +4,7 @@
 ## Overview
 A Fashion Recommender System built using machine learning and deep learning. Users can upload images or search for clothing items to receive personalized recommendations from a database of around 45,000 images.
 
+## Dataset link :  https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 ## Features
 - **Image Upload:** Get recommendations based on uploaded images.
 - **Product Suggestions:** Suggests similar products from the database.
