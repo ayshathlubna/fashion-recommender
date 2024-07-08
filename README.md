@@ -18,9 +18,9 @@ A Fashion Recommender System built using machine learning and deep learning. Use
    cd fashion-recommender-system
 2. Create a virtual environment and install dependencies:
    
-      python -m venv venv
-      source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-      pip install -r requirements.txt
+      . python -m venv venv
+      . source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+      . pip install -r requirements.txt
    
 4. Download the dataset and place it in the data directory.
    
