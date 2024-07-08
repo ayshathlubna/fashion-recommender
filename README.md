@@ -17,10 +17,12 @@ A Fashion Recommender System built using machine learning and deep learning. Use
    git clone https://github.com/yourusername/fashion-recommender-system.git
    cd fashion-recommender-system
 2. Create a virtual environment and install dependencies:
+   
       python -m venv venv
       source venv/bin/activate  # On Windows use `venv\Scripts\activate`
       pip install -r requirements.txt
-3. Download the dataset and place it in the data directory.
+   
+4. Download the dataset and place it in the data directory.
    
 ## Usage
 1. Run the web application:
